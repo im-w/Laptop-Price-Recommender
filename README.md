@@ -7,15 +7,15 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/im-w/dBoard/blob/main/developFiles/Screenshot1.png?raw=true)
+![App Screenshot](https://github.com/im-w/Laptop-Price-Recommender/blob/main/Screenshot1.png?raw=true)
 
-![App Screenshot](https://github.com/im-w/dBoard/blob/main/developFiles/Screenshot2.png?raw=true)
+![App Screenshot](https://github.com/im-w/Laptop-Price-Recommender/blob/main/Screenshot2.png?raw=true)
 
-![App Screenshot](https://github.com/im-w/dBoard/blob/main/developFiles/Screenshot3.png?raw=true)
+![App Screenshot](https://github.com/im-w/Laptop-Price-Recommender/blob/main/Screenshot3.png?raw=true)
 
-![App Screenshot](https://github.com/im-w/dBoard/blob/main/developFiles/Screenshot4.png?raw=true)
+![App Screenshot](https://github.com/im-w/Laptop-Price-Recommender/blob/main/Screenshot4.png?raw=true)
 
-![App Screenshot](https://github.com/im-w/dBoard/blob/main/developFiles/Screenshot5.png?raw=true)
+![App Screenshot](https://github.com/im-w/Laptop-Price-Recommender/blob/main/Screenshot5.png?raw=true)
 ## Installation
 
 If code needs Edge Driver, 
